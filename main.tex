@@ -1,0 +1,127 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Journal Article
+% LaTeX Template
+% Version 2.0 (February 7, 2023)
+%
+% This template originates from:
+% https://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+% NOTE: The bibliography needs to be compiled using the biber engine.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+	a4paper, % Paper size, use either a4paper or letterpaper
+	10pt, % Default font size, can also use 11pt or 12pt, although this is not recommended
+	unnumberedsections, % Comment to enable section numbering
+	twoside, % Two side traditional mode where headers and footers change between odd and even pages, comment this option to make them fixed
+]{LTJournalArticle}
+
+\addbibresource{sample.bib} % BibLaTeX bibliography file
+
+\runninghead{Graphene oxide axial condensation} % A shortened article title to appear in the running head, leave this command empty for no running head
+
+\footertext{\textit{Journal name} (2024) 12:533-684} % Text to appear in the footer, leave this command empty for no footer text
+
+\setcounter{page}{1} % The page number of the first page, set this to a higher number if the article is to be part of an issue or larger work
+\usepackage{mathtools}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\title{Synthesis, crystal structure and vibrational spectra of the new strong and eco-friendly reducing agent
+$\textrm{N}_{2}\textrm{H}_{6}(\textrm{H}_{2}\textrm{PO}_{2})_{2}$} % Article title, use manual lines breaks (\\) to beautify the layout
+
+% Authors are listed in a comma-separated list with superscript numbers indicating affiliations
+% \thanks{} is used for any text that should be placed in a footnote on the first page, such as the corresponding author's email, journal acceptance dates, a copyright/license notice, keywords, etc
+\author{%
+	 Ivo I. Lozanov\textsuperscript{1}\thanks{Corresponding author: \href{mailto:ivoil@uni-sofia.bg}{ivoil@uni-sofia.bg}\\},\,\,
+     B. Morgenstern\textsuperscript{2},\,\,
+     M. Tsvetkov\textsuperscript{1}\,\,
+    and Lyudmil Lyutov\textsuperscript{1,3}
+}
+
+% Affiliations are output in the \date{} command
+\date{\footnotesize\textsuperscript{\textbf{1}}Department of Inorganic Chemistry, Faculty of Chemistry and Pharmacy, Sofia University 'St. Kliment Ohridski'\\
+\textsuperscript{\textbf{2}} Inorganic Solid State Chemistry, Saarland University, Campus Geb. C4 1, 66123 Saarbrücken, Germany; bernd.morgenstern@uni-saarland.de\\
+\textsuperscript{\textbf{3}} Institute of Metal Science with Hydro- and Aerodynamics Centre 'Acad. Angel Balevski'}
+
+% Full-width abstract
+\renewcommand{\maketitlehookd}{%
+	\begin{abstract}
+		\noindent j
+	\end{abstract}
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Output the title section
+
+\section{Introduction}
+
+
+\section{Materials and Methods}
+
+\subsection{Materials}
+$\textrm{BaCl}_{2}\cdot2\textrm{H}_{2}\textrm{O}$ ($\geq$ 98$\%$,
+Sigma-Aldrich, Milwaukee, WI, USA); $\textrm{NaH}_{2}\textrm{PO}_{2}\cdot\textrm{H}_{2}\textrm{O}$ ($\geq$ 99$\%$,
+Sigma-Aldrich, Milwaukee, WI, USA);
+$\textrm{H}_{2}\textrm{SO}_{4}$; $\textrm{N}_{2}\textrm{H}_{4}\cdot\textrm{H}_{2}\textrm{O}$ (64-65$\%$, $\geq$ 97$\%$, reagent grade
+Sigma-Aldrich, Milwaukee, WI, USA). All chemicals were used
+as purchased without further purification.
+
+\subsection{Synthesis}
+
+Hydrazinium bishypophosphite $\textrm{N}_{2}\textrm{H}_{6}(\textrm{H}_{2}\textrm{PO}_{2})_{2}$ was synthesized in two steps. Firstly a fresh
+aqueous solution of hypophosphorous acid is prepared from Ba(H$_{2}$PO$_{2}$)$_{2}$ and H$_{2}$SO$_{4}$. Then the acid is neutralized
+with hydrazine hydrate.
+
+\subsection{Preparation of the precursor $\textrm{Ba}(\textrm{H}_{2}\textrm{PO}_{2})_{2}$}
+
+Initially barium hypophosphite $\textrm{Ba}(\textrm{H}_{2}\textrm{PO}_{2})_{2}$ wa synthesized by
+mixing freshly prepared saturated aqueous solutions of $\textrm{BaCl}_{2}$ and $\textrm{NaH}_{2}\textrm{PO}_{2}$ at
+90 $^{\circ}\textrm{C}$. After cooling to $\sim 5\,^{\circ}\textrm{C}$ the reaction mixture was left for 2-3 h. Under
+these conditions $\textrm{Ba}(\textrm{H}_{2}\textrm{PO}_{2})_{2}$ precipitates as a white crystalline product with
+high yield. The obtained white crystals were recrystallized from water, washed with cool water and dried in a desiccator.\\
+
+\begin{equation}
+\textrm{BaCl}_{2} + 2\textrm{NaH}_{2}\textrm{PO}_{2} \rightarrow \textrm{Ba}(\textrm{H}_{2}\textrm{PO}_{2})_{2} \downarrow + 2\textrm{NaCl}.
+\end{equation}
+
+\subsection{Preparation of $\textrm{H}_{3}\textrm{PO}_{2}$ and $\textrm{N}_{2}\textrm{H}_{6}(\textrm{H}_{2}\textrm{PO}_{2})_{2}$}
+
+Aqueous solution of hypophosphorous acid $\textrm{H}_{3}\textrm{PO}_{2}$ was prepared by dissolving
+barium hypophosphite $\textrm{Ba}(\textrm{H}_{2}\textrm{PO}_{2})_{2}$ in cool water and slowly
+adding stoichiometric amount of $\textrm{H}_{2}\textrm{SO}_{4}$ under constant stirring. A white crystalline
+product of $\textrm{BaSO}_{4}$ precipitated immediately.
+
+\begin{equation}
+\textrm{Ba}(\textrm{H}_{2}\textrm{PO}_{2})_{2} + \textrm{H}_{2}\textrm{SO}_{4} \rightarrow 2\textrm{H}_{3}\textrm{PO}_{2} + \textrm{BaSO}_{4} \downarrow.
+\end{equation}
+
+The mixture was cooled down to $\sim$ 5 $^{\circ}\textrm{C}$ and left for 48 h to promote the Ostwald ripening of the small BaSO$_{4}$ crystals.
+Then the solution was filtered using a vacuum pump and the filtrate was used for the next step when stoichiometric amount of hydrazine hydrate
+was added to it under constant stirring.
+
+\begin{equation}
+\textrm{N}_{2}\textrm{H}_{4} + 2\textrm{H}_{3}\textrm{PO}_{2} \rightarrow \textrm{N}_{2}\textrm{H}_{6}(\textrm{H}_{2}\textrm{PO}_{2})_{2}.
+\end{equation}
+
+The obtained hydrazinium hypophosphite salt is highly soluble in water and thus no visible change in the solution
+appearance was observed. The solution was evaporated slowly under vacuum ($\sim 400$ mbar) at temperature of 55 $\pm$ 5 $^{\circ}\textrm{C}$.
+
+
+\end{document}
