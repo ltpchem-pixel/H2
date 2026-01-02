@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.3)  30 DEC 2025 03:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.3)  1 JAN 2026 04:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ivolo/OneDrive/Documents/H2/main.tex
-(c:/Users/ivolo/OneDrive/Documents/H2/main.tex
+**c:/Users/ivolo/OneDrive/Documents/H2/H2/main.tex
+(c:/Users/ivolo/OneDrive/Documents/H2/H2/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (LTJournalArticle.cls
@@ -863,23 +863,23 @@ LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 856B4C9D64DDA835EEB6E09064B19519;993.
+(rerunfilecheck)             Checksum: D12877F9EBAB733641D0AE9F9A9747D9;1163.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22850 strings out of 468133
- 399463 string characters out of 5430713
+ 22868 strings out of 468133
+ 399664 string characters out of 5430713
  1283073 words of memory out of 5000000
- 50895 multiletter control sequences out of 15000+600000
- 702051 words of font info for 297 fonts, out of 8000000 for 9000
+ 50896 multiletter control sequences out of 15000+600000
+ 702943 words of font info for 309 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,12n,81p,1038b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,12n,81p,1041b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ivolo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ivolo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ivolo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/ivolo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/ivolo/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (2 pages, 82441 bytes).
+Output written on main.pdf (2 pages, 84304 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 130097 words of extra memory for PDF output out of 154059 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 130105 words of extra memory for PDF output out of 154059 (max. 10000000)
 

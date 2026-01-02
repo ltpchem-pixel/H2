@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1767055622.63377 "main.bcf" "main.bbl" "main" 1767057447.53906 0
-  "main.bcf" 1767057447 107338 e81e7357c8e0f88322ea42ed2e2c60f6 "pdflatex"
+["biber main"] 1767232672.02378 "main.bcf" "main.bbl" "main" 1767232940.94003 0
+  "main.bcf" 1767232940 107338 e81e7357c8e0f88322ea42ed2e2c60f6 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1767057446.50365 "c:/Users/ivolo/OneDrive/Documents/H2/main.tex" "main.pdf" "main" 1767057447.53956 0
+["pdflatex"] 1767232939.91918 "c:/Users/ivolo/OneDrive/Documents/H2/H2/main.tex" "main.pdf" "main" 1767232940.94053 0
   "C:/Users/ivolo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1767046536 104769 b018f28cbf2cc134cd4cbe41a731042e ""
   "C:/Users/ivolo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1756932660 13257342 da91c8baed04c4b07e70eb0f7152530d ""
   "C:/Users/ivolo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -130,13 +130,13 @@
   "C:/Users/ivolo/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1749468414 15698 f5f20b24886bb50156054c53e19b13fd ""
   "C:/Users/ivolo/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1749468414 10374 2ffd4f27c7f90b8a300608069537743c ""
   "C:/Users/ivolo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "LTJournalArticle.cls" 1767046516 9773 b18e8fe666adf839671abe1e32d7fccb ""
-  "c:/Users/ivolo/OneDrive/Documents/H2/main.tex" 1767057445 6563 94e3d90312cb8752eb066f9e01c0bfd0 ""
-  "main.aux" 1767057447 1063 a02f498a2bbed82a49f667e781007131 "pdflatex"
-  "main.bbl" 1767055661 486 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.out" 1767057447 993 856b4c9d64dda835eeb6e09064b19519 "pdflatex"
-  "main.run.xml" 1767057447 2301 f06af3099c978185a0ac5347b2a69dfa "pdflatex"
-  "main.tex" 1767057445 6563 94e3d90312cb8752eb066f9e01c0bfd0 ""
+  "LTJournalArticle.cls" 1767058342 9994 b18e8fe666adf839671abe1e32d7fccb ""
+  "c:/Users/ivolo/OneDrive/Documents/H2/H2/main.tex" 1767232938 7038 f80ee886833e1f6878eccc4cf85c13bc ""
+  "main.aux" 1767232940 1174 30aca2bd23a85086af647c076c3cb634 "pdflatex"
+  "main.bbl" 1767232673 486 76d65a242ec496c9b4361af646ff12cb "biber main"
+  "main.out" 1767232940 1163 d12877f9ebab733641d0ae9f9a9747d9 "pdflatex"
+  "main.run.xml" 1767232940 2301 f06af3099c978185a0ac5347b2a69dfa "pdflatex"
+  "main.tex" 1767232938 7038 f80ee886833e1f6878eccc4cf85c13bc ""
   (generated)
   "main.aux"
   "main.bcf"
